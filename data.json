@@ -1,0 +1,64 @@
+[{
+        "name": "Metallica",
+            "description": "Metallica es una banda de thrash metal estadounidense que se origina en Los Ángeles, pero con base en San Francisco desde febrero de 1983. Fue fundada en 1981 en Los Ángeles por Lars Ulrich y James Hetfield, a los que se les unirían Dave Mustaine y Ron McGovney. Estos dos músicos fueron después sustituidos por el guitarrista Kirk Hammett y el bajista Cliff Burton respectivamente, Dave Mustaine fue despedido un año después de ingresar en la banda debido a su excesiva adicción al alcohol y su actitud violenta, siendo sustituido por Kirk Hammett (ex guitarrista de Exodus). Ron renuncia a la banda debido al mal comportamiento de Dave Mustaine, el cual era violento y problemático cuando estaba bajo el efecto del alcohol. El colmo fue cuando Mustaine mojó el bajo de Ron con cerveza, él sin saberlo lo conectó, recibiendo una descarga eléctrica. Es entonces, tras contactar con Cliff Burton que la banda se traslada a San Francisco. (Cabe resaltar que Ron sabía que lo iban a despedir y sustituir por Cliff Burton). Por otra parte, el 27 de septiembre de 1986, fue la muerte de Cliff Burton en un accidente de autobús en Suecia, durante una de sus giras, esto provocó la entrada al grupo de Jason Newsted,1​ quien, tras su abandono quince años más tarde, sería sustituido por el bajista actual, Robert Trujillo.",
+            "rating": "9.97",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Metallica_wordmark.svg/1920px-Metallica_wordmark.svg.png"
+    },{
+        "name": "Nirvana",
+            "description": "Nirvana fue una banda de grunge estadounidense procedente de Aberdeen, Washington, Estados Unidos fundada por el vocalista y guitarrista Kurt Cobain y el bajista Krist Novoselic en 1987. Desde su formación, Nirvana pasó a través de una serie de frecuentes cambios de baterista hasta que en 1990 se unió, definitivamente, el baterista Dave Grohl. Nirvana actualmente es considerada como una de las bandas más famosas, mejor vendidas, importantes e influyentes de la historia de la música, siendo considerada la banda símbolo de una generación",
+            "rating": "8.44",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nirvana_around_1992.jpg"
+    },{
+        "name": "Pink Floyd",
+            "description": "Pink Floyd fue una banda de rock británica, fundada en Londres en 1965. Es considerada un icono cultural del siglo xx y una de las más influyentes en la historia de la música, que obtuvo gran popularidad gracias a su música psicodélica que evolucionó hacia el rock progresivo y rock sinfónico con el paso del tiempo. Es conocida por sus canciones de alto contenido filosófico, la experimentación sónica, las innovadoras portadas de sus discos y sus elaborados espectáculos en vivo. Sus ventas sobrepasan los 300 millones de álbumes vendidos en todo el mundo, 97,5 millones de ellos solamente en los Estados Unidos.",
+            "rating": "8.90",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pink_Floyd%2C_1971.jpg/1920px-Pink_Floyd%2C_1971.jpg"
+    },{
+        "name": "The Beatles",
+            "description": "The Beatles fue una banda de rock inglesa activa durante la década de 1960, y reconocida como la más exitosa comercialmente y la más alabada por la crítica en la historia de la música popular y de la música rock. Formada en Liverpool, estuvo constituida desde 1962 por John Lennon (guitarra rítmica, vocalista), Paul McCartney (bajo, vocalista), George Harrison (guitarra solista, vocalista) y Ringo Starr (batería, vocalista). Enraizada en el skiffle y el rock and roll de los años 1950, la banda trabajó más tarde con distintos géneros musicales, tales como rock and roll y pop de los 50's, rock pop, música beat, folk rock, rock psicodélico hasta hard rock, incorporando a menudo elementos clásicos, entre otros, de forma innovadora en sus canciones. La naturaleza de su enorme popularidad, que había emergido primeramente con la moda de la «beatlemanía», se transformó al tiempo que sus composiciones se volvieron más sofisticadas. Llegaron a ser percibidos como la encarnación de los ideales progresistas, extendiendo su influencia en las revoluciones sociales y culturales de la década de 1960. ",
+	    "rating": "9.90",	
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Fabs.JPG/800px-The_Fabs.JPG"
+    },{
+        "name": "David Bowie",
+            "description": "David Robert Jones (Brixton, Inglaterra, 8 de enero de 1947-Manhattan, Nueva York, 10 de enero de 2016),6​7​ más conocido por su nombre artístico David Bowie,​ fue un músico y compositor británico de rock, quien ejerció a su vez como actor, productor discográfico y arreglista. Figura importante de la música popular durante casi cinco décadas, Bowie es considerado un innovador, en particular por sus trabajos de la década de 1970 y por su peculiar voz, además de la profundidad intelectual de su obra.",
+            "rating": "8.17",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg"
+    },{
+        "name": "Carlos Santana",
+            "description": "Carlos Humberto Santana Barragán (Autlán de Navarro, Jalisco, 20 de julio de 1947), es un guitarrista mexicano en 1966 fundó la banda Santana, pionera en fusionar la música latina con el rock. En 2003, la revista Rolling Stone lo ubicó en la posición n.º 15 en la lista de los 100 mejores guitarristas de todos los tiempos.​ Santana ha vendido más de 90 millones de álbumes en todo el mundo contando las ventas de su banda y su carrera en solitario. Ha ganado diez premios Grammy y tres premios Grammy Latino.​ Está casado con Cindy Blackman, conocida por ser baterista de Lenny Kravitz. Su hermano Jorge Santana también es un músico, reconocido por ser uno de los fundadores de la agrupación Malo.",
+            "rating": "8.84",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Carlos_Santana_2.jpg"
+    },{
+        "name": "Avicii",
+            "description": "Tim Bergling (Estocolmo, 8 de septiembre de 1989-Mascate, 20 de abril de 2018), más conocido por su nombre artístico Avicii, fue un músico, DJ y compositor sueco, especializado en programación de audio, remezcla y producción de discos.",
+            "rating": "8.20",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Avicii_2014_001_%28cropped%29.png"
+    },{
+        "name": "José Madero",
+            "description": "José Madero Vizcaíno (Monterrey, Nuevo León, 1 de septiembre de 1980), más conocido como Pepe Madero, es un cantante, músico, compositor, productor y escritor mexicano. Inició su carrera musical como vocalista de la reconocida banda mexicana PXNDX, desde su formación en 1996 hasta 2016, cuando decidieron tomarse un descanso indefinido. Desde este mismo año se ha dedicado principalmente a su carrera como solista. ",
+	    "rating": "8.92",	
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jos%C3%A9Madero.jpg/800px-Jos%C3%A9Madero.jpg"
+    },{
+        "name": "ABBA",
+            "description": "ABBA fue un grupo sueco de música pop, integrado por Agnetha Fältskog, Björn Ulvaeus, Benny Andersson y Anni-Frid «Frida» Lyngstad. El nombre «ABBA» es un acrónimo formado por las primeras letras del nombre de cada miembro (Agnetha, Björn, Benny, Anni-Frid). El cuarteto se formó en Estocolmo en 1972, y logró la fama internacional al triunfar en el Festival de la Canción de Eurovisión 1974. Desde entonces, ABBA ha ganado popularidad empleando melodías pegadizas, letras simples y su sonido propio, caracterizado por las armonías de las voces femeninas y el wall of sound, un efecto musical creado por el productor Phil Spector. Björn y Agnetha contrajeron matrimonio meses antes de la formación del cuarteto, mientras que Benny y Frida lo hicieron en 1978; los cuatro lidiaron con sus obligaciones artísticas al mismo tiempo que se ocupaban de sus nuevas familias. Sus grabaciones tuvieron un impacto comercial que los llevó a convertirse en los artistas más exitosos de su compañía discográfica —Universal Music Group— y a ser la banda con más ventas en los años 1970.",
+            "rating": "8.14",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png"
+    },{
+        "name": "Sam Smith",
+            "description": "Samuel Frederick Smith (Londres, 19 de mayo de 1992), más conocido como Sam Smith, es un cantante y compositor británico. Nacido en Londres, creció en una localidad rural de Inglaterra; empezó a asistir a clases de canto con ocho años, participando al mismo tiempo en obras de teatro musical. A lo largo de su adolescencia, varios representantes artísticos intentaron lanzar su carrera, pero sin resultados. A los dieciocho años, inspirado por la historia de Lady Gaga, se mudó a Londres para enfocarse en su carrera musical. En octubre de 2012, saltó a la fama cuando apareció en el sencillo «Latch» de Disclosure, que alcanzó el puesto número 11 en la lista de sencillos británica. Su siguiente colaboración, «La La La» de Naughty Boy, tuvo aun mayor éxito y se situó en el puesto número 1 de la lista de sencillos británica a inicios de 2013. Posteriormente, Steve Barnett de Capitol Records, impresionado por su voz durante un concierto, le ofreció un contrato discográfico.",
+            "rating": "9.74",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sam_Smith_Lollapalooza_2015_%28cropped%29.jpg/800px-Sam_Smith_Lollapalooza_2015_%28cropped%29.jpg"
+    },{
+        "name": "Adele",
+            "description": "Adele Laurie Blue Adkins (Londres, Inglaterra, 5 de mayo de 1988), conocida simplemente como Adele, es una cantante, compositora y multinstrumentista británica. Desde muy joven mostró su interés por la música y en 2006 egresó de la BRIT School de Artes Escénicas y Tecnología, año en el que firmó un contrato con XL Recordings, tras ser descubierta por unos demos que un amigo publicó en MySpace. En los Premios Brit de 2007 recibió el galardón elección de los críticos y también ganó la encuesta Sound of 2008 realizada por la BBC. En 2008 Adele lanzó su álbum de estudio debut, 19 que se situó en la posición 1 de la lista de álbumes británica y ha sido certificado doble platino en Estados Unidos. Su carrera se vio favorecida en el territorio estadounidense tras una actuación en el programa Saturday Night Live a mediados de octubre de 2008, el espectáculo contó con la mayor cantidad de espectadores en catorce años.12​ Un año después, en la 51.ª entrega de los Premios Grammy ganó los galardones mejor artista nuevo y mejor interpretación vocal pop femenina por «Chasing Pavements».",
+            "rating": "8.40",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/800px-Adele_2016.jpg"
+    },{
+        "name": "Michael Jackson",
+            "description": "Michael Joseph Jackson​ (Gary, Indiana; 29 de agosto de 1958-Los Ángeles, California; 25 de junio de 2009) fue un cantante, compositor, productor discográfico, bailarín, actor y filántropo estadounidense.​ Conocido como el «Rey del Pop», sus contribuciones y reconocimiento en la historia de la música y el baile, así como su publicitada vida personal, lo convirtieron en una figura internacional en la cultura popular durante más de cuatro décadas. Es reconocido como la estrella de música pop más exitosa en el mundo.​ No obstante, su música incluyó una amplia acepción de subgéneros como el rhythm and blues (soul y funk), rock, disco y dance.",
+	    "rating": "9.90",	
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jackson_live_in_Lisbon.jpg/800px-Jackson_live_in_Lisbon.jpg"
+    }
+]
+
+
